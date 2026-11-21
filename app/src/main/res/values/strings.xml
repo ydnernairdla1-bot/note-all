@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Note All</string>
+    <string name="tagline">Catatan &amp; Memori Visual Anda</string>
+    <string name="search_notes_hint">Cari judul, isi, atau tag…</string>
+    <string name="new_note_action">Catatan Baru</string>
+    <string name="filter_all">Semua</string>
+    <string name="filter_pinned">Disematkan</string>
+    <string name="filter_with_images">Bergambar</string>
+    <string name="empty_notes_title">Belum Ada Catatan</string>
+    <string name="empty_notes_subtitle">Mulai tulis ide, tugas, atau sisipkan foto penting Anda. Semua tersimpan aman di perangkat dan siap dicadangkan.</string>
+    <string name="empty_search_title">Tidak Ada Hasil</string>
+    <string name="empty_search_subtitle">Coba kata kunci atau filter kategori lain.</string>
+    <string name="editor_title_hint">Judul catatan…</string>
+    <string name="editor_body_hint">Tulis catatan di sini…</string>
+    <string name="add_image_gallery">Galeri</string>
+    <string name="add_image_camera">Kamera</string>
+    <string name="backup_center_title">Cadangan &amp; Status Cloud</string>
+    <string name="cloud_status_local_only">Penyimpanan Lokal Aktif</string>
+    <string name="cloud_status_paused_banner">Sinkronisasi cloud Firebase belum diaktifkan. Catatan dan gambar tersimpan aman secara lokal, dan Anda dapat mengekspor cadangan ZIP ke Google Drive atau perangkat kapan saja.</string>
+    <string name="export_backup_action">Ekspor Cadangan (.zip)</string>
+    <string name="restore_backup_action">Pulihkan Cadangan (.zip)</string>
+    <string name="auto_saved_label">Tersimpan otomatis</string>
+    <string name="saving_label">Menyimpan…</string>
+    <string name="delete_note_action">Hapus Catatan</string>
+    <string name="delete_note_confirm_title">Hapus Catatan Ini?</string>
+    <string name="delete_note_confirm_body">Catatan beserta seluruh foto terlampir di dalamnya akan dihapus secara permanen dari perangkat.</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="share_note">Bagikan</string>
+    <string name="pin_note">Sematkan</string>
+    <string name="unpin_note">Lepas Sematan</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Note All",
+  "description": "Aplikasi catatan serba bisa dengan gambar, keuangan, aktivitas harian, tema kustom, dan cadangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
