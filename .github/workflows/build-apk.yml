@@ -22,9 +22,10 @@ jobs:
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
 
-      - name: Siapkan file .env dari .env.example jika ada
-        if: hashFiles('.env.example') != ''
-        run: cp .env.example .env
+      - name: Pastikan file .env.example dan .env ada
+        run: |
+          touch .env.example
+          cp .env.example .env
 
       - name: Buat debug.keystore jika belum ada
         if: hashFiles('debug.keystore') == ''
